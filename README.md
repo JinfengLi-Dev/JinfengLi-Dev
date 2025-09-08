@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**JinfengLi-Dev/JinfengLi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luis.Lee (JinfengLi-Dev), founder of Lumikra Digital Technology Limited.
 
-Here are some ideas to get you started:
+- 🔭 I have been working in the **AIoT (AI + IoT)** area for over **8 years**  
+- 🚀 Passionate about **AIoT** and **Blockchain Technologies**
+- 🌱 Currently developing **an elder-caring system** that aims to improve quality of life and bring real-world impact  
+- 📫 Reach me at: **luis.lee@lumikra.com**
+- 🗽 In **May 2024**, my **NIW immigration petition was approved** and I’m currently in the **green card waiting period** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinfengLi-Dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinfengLi-Dev&layout=compact&theme=tokyonight)
+
+---
