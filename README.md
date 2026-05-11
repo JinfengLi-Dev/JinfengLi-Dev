@@ -3,8 +3,7 @@
 I'm Luis.Lee (JinfengLi-Dev), now working in Colombia.
 
 - 🔭 I have been working in the **AIoT (AI + IoT)** area for over **8 years**  
-- 🚀 Passionate about **AIoT** and **Blockchain Technologies**
-- 🌱 Currently developing **an elder-caring system** that aims to improve quality of life and bring real-world impact  
+- 🚀 Passionate about **AIoT** and **Blockchain Technologies** 
 - 📫 Reach me at: **ljfking001@gmail.com**
 
 ## 📊 GitHub Stats
