@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Luis.Lee (JinfengLi-Dev), now working in Colombia.
+I'm Luis.Lee (JinfengLi-Dev), now working in Americas.
 
 - 🔭 I have been working in the **AIoT (AI + IoT)** area for over **8 years**  
 - 🚀 Passionate about **AIoT** and **Blockchain Technologies** 
